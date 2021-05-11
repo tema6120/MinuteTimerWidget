@@ -11,3 +11,10 @@ Demonstration
 -------------
 
 <img src="readme_page/Demonstration.gif" alt="Demonstration">
+
+Download
+--------
+
+[<img src="readme_page/direct_apk_download.png"
+      alt="Get direct apk"
+      height="80">](https://github.com/tema6120/MinuteTimerWidget/releases/download/1.0/Minute_Timer_Widget_v1.0.apk)

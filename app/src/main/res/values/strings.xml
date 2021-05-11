@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Minute Timer Widget</string>
+    <string name="start">Start</string>
+    <string name="timer_displaying_value">%s min.</string>
+    <string name="widget_header">Timer</string>
+    <string name="timer_app_was_not_found">Timer app was not found</string>
+</resources>
